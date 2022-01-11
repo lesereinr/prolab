@@ -1,0 +1,21 @@
+2021-11-30 13:58:22  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-30 13:58:22  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-30 13:58:22  INFO CreateServiceRunnable:338 - Start test mode!
+2021-11-30 13:58:58  INFO CreateServiceRunnable:399 - Accepted 201870199
+2021-11-30 13:58:58  INFO CreateServiceRunnable:413 - Welcome 201870199,201870199
+2021-11-30 14:16:30  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-30 14:16:30  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-30 14:16:30  INFO CreateServiceRunnable:108 - Start contest mode!
+2021-11-30 14:16:30  INFO CreateServiceRunnable:118 - The number of registered players: 0
+2021-11-30 14:16:33  INFO CreateServiceRunnable:202 - Accepted 201870199
+2021-11-30 14:16:33  INFO CreateServiceRunnable:219 - Welcome 201870199,201870199
+2021-11-30 14:16:33  INFO CreateServiceRunnable:281 - The number of registered players: 1
+2021-11-30 14:16:33  INFO CreateServiceRunnable:304 - The passed player in contest: 201870199
+2021-11-30 14:16:33  INFO CreateServiceRunnable:306 - Contest start!
+2021-11-30 14:18:48  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-30 14:18:48  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-30 14:18:48  INFO CreateServiceRunnable:108 - Start contest mode!
+2021-11-30 14:18:48  INFO CreateServiceRunnable:118 - The number of registered players: 0
+2021-11-30 14:18:57  INFO CreateServiceRunnable:202 - Accepted 201870199
+2021-11-30 14:18:57  INFO CreateServiceRunnable:219 - Welcome 201870199,201870199
+2021-11-30 14:18:57  INFO CreateServiceRunnable:118 - The number of registered players: 1

@@ -1,0 +1,20 @@
+2021-11-22 01:01:05  INFO TestServiceRunnable:60 - 111111111vsRobotB-test-0 begin!
+2021-11-22 01:01:05  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-0 round 0 start
+2021-11-22 01:01:06  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-0 round 0 end
+2021-11-22 01:01:06  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-0 round 1 start
+2021-11-22 01:01:07  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-0 round 1 end
+2021-11-22 01:01:07  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-0 round 2 start
+2021-11-22 01:01:07  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-0 round 2 end
+2021-11-22 01:01:07  INFO TestServiceRunnable:327 - 111111111vsRobotB-test-0 game over
+2021-11-22 01:01:07  INFO TestServiceRunnable:334 - 111111111vsRobotB-test-0 result save done!
+2021-11-22 01:01:07  INFO TestServiceRunnable:339 - 111111111vsRobotB-test-0 record save done!
+2021-11-22 01:01:32  INFO TestServiceRunnable:60 - 111111111vsRobotB-test-1 begin!
+2021-11-22 01:01:32  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-1 round 0 start
+2021-11-22 01:01:32  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-1 round 0 end
+2021-11-22 01:01:32  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-1 round 1 start
+2021-11-22 01:01:32  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-1 round 1 end
+2021-11-22 01:01:32  INFO TestServiceRunnable:70 - 111111111vsRobotB-test-1 round 2 start
+2021-11-22 01:01:33  INFO TestServiceRunnable:287 - 111111111vsRobotB-test-1 round 2 end
+2021-11-22 01:01:33  INFO TestServiceRunnable:327 - 111111111vsRobotB-test-1 game over
+2021-11-22 01:01:33  INFO TestServiceRunnable:334 - 111111111vsRobotB-test-1 result save done!
+2021-11-22 01:01:33  INFO TestServiceRunnable:339 - 111111111vsRobotB-test-1 record save done!

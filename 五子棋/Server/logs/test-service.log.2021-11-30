@@ -1,0 +1,10 @@
+2021-11-30 13:58:58  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-30 13:58:58  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-30 13:59:08  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-30 13:59:08  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-30 13:59:10  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-30 13:59:10  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-30 13:59:12  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-30 13:59:12  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-30 13:59:12  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-30 13:59:12  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!

@@ -1,0 +1,104 @@
+2021-11-28 14:29:58  INFO TestServiceRunnable:60 - 201870199vsRobotA-test-0 begin!
+2021-11-28 14:29:58  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 0 start
+2021-11-28 14:30:04  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 0 end
+2021-11-28 14:30:04  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 1 start
+2021-11-28 14:30:04 ERROR TestServiceRunnable:275 - java.lang.StringIndexOutOfBoundsException: begin 3, end 11, length 8
+2021-11-28 14:30:04 ERROR TestServiceRunnable:276 - 201870199vsRobotA-test-0 ROUND 1 Unkown Exception in 1 CONTEST
+2021-11-28 14:30:04  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 1 end
+2021-11-28 14:30:04  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 2 start
+2021-11-28 14:30:06  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 2 end
+2021-11-28 14:30:06  INFO TestServiceRunnable:327 - 201870199vsRobotA-test-0 game over
+2021-11-28 14:30:06  INFO TestServiceRunnable:334 - 201870199vsRobotA-test-0 result save done!
+2021-11-28 14:30:06  INFO TestServiceRunnable:339 - 201870199vsRobotA-test-0 record save done!
+2021-11-28 14:36:09  INFO TestServiceRunnable:60 - 201870199vsRobotA-test-1 begin!
+2021-11-28 14:36:09  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 0 start
+2021-11-28 14:36:09  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 0 end
+2021-11-28 14:36:09  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 1 start
+2021-11-28 14:36:09 ERROR TestServiceRunnable:275 - java.lang.StringIndexOutOfBoundsException: begin 3, end 11, length 8
+2021-11-28 14:36:09 ERROR TestServiceRunnable:276 - 201870199vsRobotA-test-1 ROUND 1 Unkown Exception in 1 CONTEST
+2021-11-28 14:36:09  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 1 end
+2021-11-28 14:36:09  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 2 start
+2021-11-28 14:36:10  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 2 end
+2021-11-28 14:36:10  INFO TestServiceRunnable:327 - 201870199vsRobotA-test-1 game over
+2021-11-28 14:36:10  INFO TestServiceRunnable:334 - 201870199vsRobotA-test-1 result save done!
+2021-11-28 14:36:10  INFO TestServiceRunnable:339 - 201870199vsRobotA-test-1 record save done!
+2021-11-28 14:36:54  INFO TestServiceRunnable:60 - 201870199vsRobotA-test-0 begin!
+2021-11-28 14:36:54  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 0 start
+2021-11-28 14:36:55  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 0 end
+2021-11-28 14:36:55  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 1 start
+2021-11-28 14:36:55 ERROR TestServiceRunnable:275 - java.lang.StringIndexOutOfBoundsException: begin 3, end 11, length 8
+2021-11-28 14:36:55 ERROR TestServiceRunnable:276 - 201870199vsRobotA-test-0 ROUND 1 Unkown Exception in 1 CONTEST
+2021-11-28 14:36:55  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 1 end
+2021-11-28 14:36:55  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 2 start
+2021-11-28 14:36:56  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 2 end
+2021-11-28 14:36:56  INFO TestServiceRunnable:327 - 201870199vsRobotA-test-0 game over
+2021-11-28 14:36:56  INFO TestServiceRunnable:334 - 201870199vsRobotA-test-0 result save done!
+2021-11-28 14:36:56  INFO TestServiceRunnable:339 - 201870199vsRobotA-test-0 record save done!
+2021-11-28 15:07:09  INFO TestServiceRunnable:60 - 201870199vsRobotA-test-1 begin!
+2021-11-28 15:07:09  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 0 start
+2021-11-28 15:07:09  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 0 end
+2021-11-28 15:07:09  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 1 start
+2021-11-28 15:07:10  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 1 end
+2021-11-28 15:07:10  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-1 round 2 start
+2021-11-28 15:07:10  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-1 round 2 end
+2021-11-28 15:07:10  INFO TestServiceRunnable:327 - 201870199vsRobotA-test-1 game over
+2021-11-28 15:07:10  INFO TestServiceRunnable:334 - 201870199vsRobotA-test-1 result save done!
+2021-11-28 15:07:10  INFO TestServiceRunnable:339 - 201870199vsRobotA-test-1 record save done!
+2021-11-28 15:08:19  INFO TestServiceRunnable:60 - 201870199vsRobotA-test-0 begin!
+2021-11-28 15:08:19  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 0 start
+2021-11-28 15:08:19  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 0 end
+2021-11-28 15:08:19  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 1 start
+2021-11-28 15:08:19  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 1 end
+2021-11-28 15:08:19  INFO TestServiceRunnable:70 - 201870199vsRobotA-test-0 round 2 start
+2021-11-28 15:08:19  INFO TestServiceRunnable:287 - 201870199vsRobotA-test-0 round 2 end
+2021-11-28 15:08:19  INFO TestServiceRunnable:327 - 201870199vsRobotA-test-0 game over
+2021-11-28 15:08:19  INFO TestServiceRunnable:334 - 201870199vsRobotA-test-0 result save done!
+2021-11-28 15:08:19  INFO TestServiceRunnable:339 - 201870199vsRobotA-test-0 record save done!
+2021-11-28 15:09:26  INFO TestServiceRunnable:60 - 201870199vsRobotB-test-0 begin!
+2021-11-28 15:09:26  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 0 start
+2021-11-28 15:09:27  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 0 end
+2021-11-28 15:09:27  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 1 start
+2021-11-28 15:09:27  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 1 end
+2021-11-28 15:09:27  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 2 start
+2021-11-28 15:09:27  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 2 end
+2021-11-28 15:09:27  INFO TestServiceRunnable:327 - 201870199vsRobotB-test-0 game over
+2021-11-28 15:09:27  INFO TestServiceRunnable:334 - 201870199vsRobotB-test-0 result save done!
+2021-11-28 15:09:27  INFO TestServiceRunnable:339 - 201870199vsRobotB-test-0 record save done!
+2021-11-28 15:11:42  INFO TestServiceRunnable:60 - 201870199vsRobotB-test-0 begin!
+2021-11-28 15:11:42  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 0 start
+2021-11-28 15:11:45 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-28 15:11:45 ERROR TestServiceRunnable:437 - 201870199vsRobotB-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-28 15:11:47 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-28 15:11:47 ERROR TestServiceRunnable:446 - 201870199vsRobotB-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-28 15:11:49 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-28 15:11:49 ERROR TestServiceRunnable:446 - 201870199vsRobotB-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-28 15:11:51 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-28 15:11:51 ERROR TestServiceRunnable:446 - 201870199vsRobotB-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-28 15:11:51  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 0 end
+2021-11-28 15:11:51  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 1 start
+2021-11-28 15:11:53 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-28 15:11:53 ERROR TestServiceRunnable:145 - 201870199vsRobotB-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-28 15:11:53  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 1 end
+2021-11-28 15:11:53  INFO TestServiceRunnable:327 - 201870199vsRobotB-test-0 game over
+2021-11-28 15:11:53  INFO TestServiceRunnable:334 - 201870199vsRobotB-test-0 result save done!
+2021-11-28 15:11:53  INFO TestServiceRunnable:339 - 201870199vsRobotB-test-0 record save done!
+2021-11-28 15:12:27  INFO TestServiceRunnable:60 - 201870199vsRobotB-test-0 begin!
+2021-11-28 15:12:27  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 0 start
+2021-11-28 15:12:27  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 0 end
+2021-11-28 15:12:27  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 1 start
+2021-11-28 15:12:28  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 1 end
+2021-11-28 15:12:28  INFO TestServiceRunnable:70 - 201870199vsRobotB-test-0 round 2 start
+2021-11-28 15:12:28  INFO TestServiceRunnable:287 - 201870199vsRobotB-test-0 round 2 end
+2021-11-28 15:12:28  INFO TestServiceRunnable:327 - 201870199vsRobotB-test-0 game over
+2021-11-28 15:12:28  INFO TestServiceRunnable:334 - 201870199vsRobotB-test-0 result save done!
+2021-11-28 15:12:28  INFO TestServiceRunnable:339 - 201870199vsRobotB-test-0 record save done!
+2021-11-28 15:13:47  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-28 15:13:47  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-28 15:13:50  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-28 15:13:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-28 15:13:51  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-28 15:13:51  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-28 15:13:51  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-28 15:13:51  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-28 15:13:51  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-28 15:13:51  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!

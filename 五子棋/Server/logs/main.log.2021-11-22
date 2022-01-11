@@ -1,0 +1,35 @@
+2021-11-22 01:00:36  INFO ServerProperties:44 - Read server.properties complete! The properties as follows: 
+2021-11-22 01:00:36  INFO ServerProperties:46 - see.error=true
+2021-11-22 01:00:36  INFO ServerProperties:46 - chess.board.cols=19
+2021-11-22 01:00:36  INFO ServerProperties:46 - step.timeout=2000
+2021-11-22 01:00:36  INFO ServerProperties:46 - replay.speed=200
+2021-11-22 01:00:36  INFO ServerProperties:46 - filter.out=0
+2021-11-22 01:00:36  INFO ServerProperties:46 - step.error.number=3
+2021-11-22 01:00:36  INFO ServerProperties:46 - debug.robot.a=0
+2021-11-22 01:00:36  INFO ServerProperties:46 - debug.robot.b=1
+2021-11-22 01:00:36  INFO ServerProperties:46 - robot.model=1
+2021-11-22 01:00:36  INFO ServerProperties:46 - play.interval=0
+2021-11-22 01:00:36  INFO ServerProperties:46 - round.steps=1000
+2021-11-22 01:00:36  INFO ServerProperties:46 - server.port=10087
+2021-11-22 01:00:36  INFO ServerProperties:46 - ui.width=1064
+2021-11-22 01:00:36  INFO ServerProperties:46 - ui.height=674
+2021-11-22 01:00:36  INFO ServerProperties:46 - disappear_freq=5
+2021-11-22 01:00:36  INFO ServerProperties:46 - contest.rounds=3
+2021-11-22 01:00:36  INFO ServerProperties:46 - ui.result.list.width=66
+2021-11-22 01:00:36  INFO ServerProperties:46 - server.mode=1
+2021-11-22 01:00:36  INFO ServerProperties:46 - chess.board.rows=19
+2021-11-22 01:00:36  INFO Main:28 - Startup the main ui
+2021-11-22 01:00:36  INFO Players:67 - Load list file: players-1.txt
+2021-11-22 01:00:36  INFO Players:73 - The players authoried in this round as follow:
+2021-11-22 01:00:36  INFO Players:81 - 111111111
+2021-11-22 01:00:36  INFO Players:81 - 111111112
+2021-11-22 01:00:36  INFO Players:90 - Total players: 2
+2021-11-22 01:00:36  INFO ClientConnectMonitor:60 - Create server socket success!
+2021-11-22 01:00:36  INFO ClientConnectMonitor:62 - Server address is: 192.168.0.197:10087
+2021-11-22 01:00:36  INFO ClientConnectMonitor:64 - ClientConnectMonitor initialization complete!
+2021-11-22 01:00:36  INFO ClientConnectMonitor:74 - Start monitor...
+2021-11-22 01:00:36  INFO ClientConnectMonitor:82 - Waitting clients to access...
+2021-11-22 01:01:05  INFO ClientConnectMonitor:102 - Accepted one accession: 127.0.0.1:51063
+2021-11-22 01:01:05  INFO ClientConnectMonitor:82 - Waitting clients to access...
+2021-11-22 01:01:32  INFO ClientConnectMonitor:102 - Accepted one accession: 127.0.0.1:51066
+2021-11-22 01:01:32  INFO ClientConnectMonitor:82 - Waitting clients to access...

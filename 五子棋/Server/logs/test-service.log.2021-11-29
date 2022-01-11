@@ -1,0 +1,795 @@
+2021-11-29 02:45:21  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 02:45:21  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 02:45:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 02:45:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 02:45:23 ERROR TestServiceRunnable:275 - java.lang.StringIndexOutOfBoundsException: begin 3, end 11, length 8
+2021-11-29 02:45:23 ERROR TestServiceRunnable:276 - 201870199vsRobotC-test-0 ROUND 1 Unkown Exception in 1 CONTEST
+2021-11-29 02:45:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 02:45:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 02:45:24  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 02:45:24  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 02:45:24  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 02:45:24  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 02:49:35  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 02:49:35  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 02:49:37 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:49:37 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 02:49:39 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:49:39 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 02:49:41 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:49:41 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 02:49:43 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:49:43 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 02:49:43  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 02:49:43  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 02:49:45 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:49:45 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 02:49:45  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 02:49:45  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 02:49:45  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 02:49:45  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 02:50:51  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 02:50:51  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 02:50:53 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:50:53 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 02:50:55 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:50:55 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 02:50:57 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:50:57 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 02:50:59 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:50:59 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 02:50:59  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 02:50:59  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 02:51:01 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:51:01 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-1 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 02:51:01  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 02:51:01  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 02:51:01  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 02:51:01  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 02:54:59  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 02:54:59  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 02:55:01 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:01 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 02:55:03 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:03 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 02:55:05 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:05 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 02:55:07 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 02:55:07 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 02:55:07  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 02:55:07 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 02:55:07  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 02:55:07  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 02:55:07  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 02:55:25  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 02:55:25  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 02:55:27 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:27 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 02:55:29 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:29 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 02:55:31 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:31 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 02:55:33 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:33 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 02:55:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 02:55:33  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 02:55:35 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 02:55:35 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 02:55:35  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 02:55:35  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 02:55:35  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 02:55:35  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:05:12  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:05:12  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:05:14 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:05:14 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:05:16 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:05:16 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:05:18 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:05:18 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:05:20 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:05:20 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:05:20  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:05:20  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:05:22 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:05:22 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 03:05:22  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:05:22  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:05:22  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:05:22  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:11:13  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:11:13  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:11:15  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:11:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:11:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:11:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 03:11:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 03:11:17  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:11:17  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:11:17  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:18:43  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:18:43  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:18:45 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:18:45 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:18:47 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:18:47 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:18:49 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:18:49 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:18:51 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:18:51 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:18:51  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:18:51  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:18:53 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:18:53 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 03:18:53  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:18:53  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:18:53  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:18:53  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:20:15  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:20:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:20:17 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:20:17 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:20:19 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:20:19 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:20:21 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:20:21 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:20:23 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:20:23 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:20:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:20:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:20:25 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:20:25 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 03:20:25  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:20:25  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:20:25  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:20:26  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:21:04  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:21:04  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:21:06 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:06 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:21:08 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:08 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:21:10 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:10 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:21:12 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:12 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:21:12  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:21:12  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:21:17 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:17 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:21:19 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:19 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:21:21 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:21 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:21:23 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:23 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:21:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:21:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 03:21:25 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:21:25 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 2 TimeoutException when synchronize black round
+2021-11-29 03:21:25  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 03:21:25  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:21:25  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:21:25  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:23:29  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:23:29  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:23:31  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:23:31  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:23:32  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:23:32  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 03:23:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 03:23:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:23:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:23:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:28:13  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:28:13  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:28:15  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:28:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:28:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:28:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 03:28:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 03:28:17  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:28:17  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:28:17  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:31:13  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 03:31:13  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 03:31:15 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:31:15 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:31:17 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:31:17 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:31:19 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:31:19 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:31:21 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:31:21 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-29 03:31:21  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 03:31:21  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 03:31:23 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:31:23 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 03:31:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 03:31:23  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 03:31:23  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 03:31:23  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 03:34:06  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 03:34:06  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 03:34:08 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:34:08 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-29 03:34:10 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:34:10 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-29 03:34:12 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:34:12 ERROR TestServiceRunnable:446 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-29 03:34:17 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:34:17 ERROR TestServiceRunnable:437 - 201870199vsRobotC-test-1 ROUND 0 TimeoutException when receive BLACK step: 4 time!
+2021-11-29 03:34:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 03:34:17  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 03:34:19 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-29 03:34:19 ERROR TestServiceRunnable:145 - 201870199vsRobotC-test-1 ROUND 1 TimeoutException when synchronize black round
+2021-11-29 03:34:19  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 03:34:19  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 03:34:19  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 03:34:19  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 03:37:14  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 03:37:14  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 03:37:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 03:37:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 1 start
+2021-11-29 03:37:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 1 end
+2021-11-29 03:37:17  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 2 start
+2021-11-29 03:37:18  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 2 end
+2021-11-29 03:37:18  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 03:37:18  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 03:37:18  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 09:51:58  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 09:51:58  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 09:54:45 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:54:45 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:54:45  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 09:54:45 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:54:45  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 09:54:45  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 09:54:45  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 09:56:11  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 09:56:11  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 09:59:33 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:59:33 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:59:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 09:59:33 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 09:59:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 09:59:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 09:59:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:07:07  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 10:07:07  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 10:07:11 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:07:11 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:07:11  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 10:07:11 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:07:11  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 10:07:11  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 10:07:11  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 10:07:26  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:07:26  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:07:29  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:07:29  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:07:30  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:07:30  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 10:07:31  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 10:07:31  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:07:31  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:07:31  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:11:51  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:11:51  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:13:07 ERROR TestServiceRunnable:459 - java.net.SocketException: Connection reset
+2021-11-29 10:13:07 ERROR TestServiceRunnable:460 - 201870199vsRobotC-test-0 ROUND 0 Unkown Exception when receive BLACK  step!
+2021-11-29 10:13:07 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:13:07  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:13:07  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:13:07 ERROR TestServiceRunnable:114 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:13:07 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:13:07  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:13:07 ERROR TestServiceRunnable:325 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:13:07  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:13:07  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:13:07  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:13:57  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 10:13:57  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 10:14:42 ERROR TestServiceRunnable:151 - java.net.SocketException: Connection reset
+2021-11-29 10:14:42 ERROR TestServiceRunnable:152 - 201870199vsRobotC-test-1 ROUND 0 Unkown Exception when synchronize black round!
+2021-11-29 10:14:42 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:14:42  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 10:14:42 ERROR TestServiceRunnable:325 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:14:42  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 10:14:42  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 10:14:42  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 10:16:06  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 10:16:06  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 10:17:08 ERROR TestServiceRunnable:459 - java.net.SocketException: Connection reset
+2021-11-29 10:17:08 ERROR TestServiceRunnable:460 - 201870199vsRobotC-test-2 ROUND 0 Unkown Exception when receive BLACK  step!
+2021-11-29 10:17:08 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:17:08  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 10:17:08  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 1 start
+2021-11-29 10:17:08 ERROR TestServiceRunnable:114 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:17:08 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:17:08  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 1 end
+2021-11-29 10:17:08 ERROR TestServiceRunnable:325 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:17:08  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 10:17:08  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 10:17:08  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 10:17:45  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-3 begin!
+2021-11-29 10:17:45  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-3 round 0 start
+2021-11-29 10:18:22 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:18:22 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:18:22  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-3 round 0 end
+2021-11-29 10:18:22 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:18:22  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-3 game over
+2021-11-29 10:18:22  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-3 result save done!
+2021-11-29 10:18:22  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-3 record save done!
+2021-11-29 10:31:42  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:31:42  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:33:00  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:33:00  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:33:24 ERROR TestServiceRunnable:151 - java.net.SocketException: Connection reset
+2021-11-29 10:33:24 ERROR TestServiceRunnable:152 - 201870199vsRobotC-test-0 ROUND 1 Unkown Exception when synchronize black round!
+2021-11-29 10:33:24 ERROR TestServiceRunnable:285 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:33:24  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:33:24 ERROR TestServiceRunnable:325 - java.net.SocketException: Connection reset by peer
+2021-11-29 10:33:24  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:33:24  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:33:24  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:33:30  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 10:33:30  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 10:33:31  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 10:33:31  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 10:33:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 10:33:33  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 2 start
+2021-11-29 10:33:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 2 end
+2021-11-29 10:33:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 10:33:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 10:33:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 10:34:29  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:34:29  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:34:32  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:34:32  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:34:35  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:34:35  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 10:34:37  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 10:34:37  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:34:37  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:34:37  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:40:48  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:40:48  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:40:50  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:40:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:40:53  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:40:53  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 10:40:54  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 10:40:54  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:40:54  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:40:54  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:42:30  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:42:30  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:45:23 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:45:23 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:45:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:45:23 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:45:23  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:45:23  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:45:23  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:46:24  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 10:46:24  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 10:51:52 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:51:52 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:51:52  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 10:51:52 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:51:52  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 10:51:52  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 10:51:52  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 10:52:44  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:52:44  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:53:26 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:53:26 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:53:26  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:53:26 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:53:26  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:53:26  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:53:26  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 10:53:53  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 10:53:53  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 10:55:50 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:55:50 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:55:50  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 10:55:50 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 10:55:50  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 10:55:50  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 10:55:50  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 10:56:11  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 10:56:11  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 10:56:14  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 10:56:14  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 10:56:15  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 10:56:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 10:56:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 10:56:16  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 10:56:16  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 10:56:16  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 11:04:12  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 11:04:12  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 11:04:14  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 11:04:14  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 11:04:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 11:04:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 11:04:18  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 11:04:18  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 11:04:18  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 11:04:18  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 11:12:28  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 11:12:28  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 11:20:14 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:20:14 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:20:14  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 11:20:14 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:20:14  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 11:20:14  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 11:20:14  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 11:21:10  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 11:21:10  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 11:22:53 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:22:53 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:22:53  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 11:22:53 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:22:53  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 11:22:53  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 11:22:53  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 11:23:08  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 11:23:08  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 11:36:57 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:36:57 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:36:57  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 11:36:57 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:36:57  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 11:36:57  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 11:36:57  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 11:40:17  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 11:40:17  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 11:40:21  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 11:40:21  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 11:40:24  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 11:40:24  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 11:40:25  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 11:40:25  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 11:40:25  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 11:40:25  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 11:44:40  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 11:44:40  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 11:44:42  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 11:44:42  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 11:44:43  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 11:44:43  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 11:44:44  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 11:44:44  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 11:44:44  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 11:44:44  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 11:47:52  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 11:47:52  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 11:47:53  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 11:47:53  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 11:47:54  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 11:47:54  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 2 start
+2021-11-29 11:47:54  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 2 end
+2021-11-29 11:47:54  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 11:47:54  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 11:47:54  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 11:50:16  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 11:50:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 11:50:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 11:50:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 1 start
+2021-11-29 11:50:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 1 end
+2021-11-29 11:50:17  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 2 start
+2021-11-29 11:50:18  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 2 end
+2021-11-29 11:50:18  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 11:50:18  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 11:50:18  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 11:52:15  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-3 begin!
+2021-11-29 11:52:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-3 round 0 start
+2021-11-29 11:52:48 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:52:48 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:52:48  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-3 round 0 end
+2021-11-29 11:52:48 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 11:52:48  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-3 game over
+2021-11-29 11:52:48  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-3 result save done!
+2021-11-29 11:52:48  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-3 record save done!
+2021-11-29 11:52:50  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-4 begin!
+2021-11-29 11:52:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-4 round 0 start
+2021-11-29 12:01:54 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 12:01:54 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 12:01:54  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-4 round 0 end
+2021-11-29 12:01:54 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 12:01:54  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-4 game over
+2021-11-29 12:01:54  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-4 result save done!
+2021-11-29 12:01:54  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-4 record save done!
+2021-11-29 12:12:26  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-5 begin!
+2021-11-29 12:12:26  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-5 round 0 start
+2021-11-29 12:12:57  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-5 round 0 end
+2021-11-29 12:12:57  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-5 round 1 start
+2021-11-29 12:12:59  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-5 round 1 end
+2021-11-29 12:12:59  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-5 round 2 start
+2021-11-29 12:12:59  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-5 round 2 end
+2021-11-29 12:12:59  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-5 game over
+2021-11-29 12:12:59  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-5 result save done!
+2021-11-29 12:12:59  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-5 record save done!
+2021-11-29 12:15:28  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 12:15:28  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 12:15:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 12:15:33  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 12:15:34  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 12:15:34  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 12:15:37  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 12:15:37  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 12:15:37  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 12:15:37  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 12:20:33  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 12:20:33  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 12:20:34  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 12:20:34  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 12:20:36  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 12:20:36  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 2 start
+2021-11-29 12:20:37  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 2 end
+2021-11-29 12:20:37  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 12:20:37  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 12:20:37  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 12:22:02  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 12:22:02  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 12:22:03  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 12:22:03  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 1 start
+2021-11-29 12:22:05  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 1 end
+2021-11-29 12:22:05  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 2 start
+2021-11-29 12:22:07  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 2 end
+2021-11-29 12:22:07  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 12:22:07  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 12:22:07  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 12:29:43  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 12:29:43  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 12:29:50  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 12:29:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 12:29:58  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 12:29:58  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 12:30:01  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 12:30:01  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 12:30:01  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 12:30:01  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 12:33:33  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 12:33:33  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 12:33:38  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 12:33:38  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 12:33:45  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 12:33:45  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 12:33:48  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 12:33:48  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 12:33:48  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 12:33:48  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:21:31  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:21:31  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:21:39  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:21:39  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:21:42  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:21:42  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:21:47  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:21:47  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:21:47  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:21:47  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:25:34  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:25:34  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:25:40  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:25:40  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:25:42  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:25:42  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:25:45  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:25:45  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:25:45  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:25:45  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:30:53  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 13:30:53  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 13:30:55  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 13:30:55  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 13:30:56  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 13:30:56  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 2 start
+2021-11-29 13:30:58  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 2 end
+2021-11-29 13:30:58  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 13:30:58  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 13:30:58  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 13:35:57  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-2 begin!
+2021-11-29 13:35:57  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 0 start
+2021-11-29 13:36:00  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 0 end
+2021-11-29 13:36:00  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 1 start
+2021-11-29 13:36:02  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 1 end
+2021-11-29 13:36:02  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-2 round 2 start
+2021-11-29 13:36:05  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-2 round 2 end
+2021-11-29 13:36:05  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-2 game over
+2021-11-29 13:36:05  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-2 result save done!
+2021-11-29 13:36:05  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-2 record save done!
+2021-11-29 13:38:50  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-3 begin!
+2021-11-29 13:38:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-3 round 0 start
+2021-11-29 13:38:52  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-3 round 0 end
+2021-11-29 13:38:52  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-3 round 1 start
+2021-11-29 13:39:00  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-3 round 1 end
+2021-11-29 13:39:00  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-3 round 2 start
+2021-11-29 13:39:04  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-3 round 2 end
+2021-11-29 13:39:04  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-3 game over
+2021-11-29 13:39:04  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-3 result save done!
+2021-11-29 13:39:04  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-3 record save done!
+2021-11-29 13:40:50  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:40:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:40:56  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:40:56  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:41:05  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:41:05  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:41:08  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:41:08  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:41:08  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:41:09  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:43:13  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:43:13  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:43:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:43:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:43:26  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:43:26  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:43:31  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:43:31  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:43:31  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:43:31  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:47:19  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:47:19  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:47:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:47:23  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:47:30  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:47:30  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:47:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:47:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:47:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:47:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:50:11  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:50:11  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:50:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:50:16  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:50:19  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:50:19  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:50:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:50:23  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:50:23  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:50:23  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:52:38  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:52:38  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:52:46  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:52:46  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:52:49  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:52:49  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:52:53  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:52:53  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:52:53  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:52:53  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:57:18  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:57:18  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:57:27  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:57:27  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:57:29  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:57:29  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:57:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:57:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:57:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:57:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 13:58:31  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 13:58:31  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 13:58:36  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 13:58:36  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 13:58:44  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 13:58:44  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 13:58:48  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 13:58:48  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 13:58:48  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 13:58:48  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:04:09  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:04:09  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:07:12 ERROR TestServiceRunnable:474 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 14:07:12 ERROR TestServiceRunnable:285 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 14:07:12  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:07:12 ERROR TestServiceRunnable:325 - java.net.SocketException: 你的主机中的软件中止了一个已建立的连接。
+2021-11-29 14:07:12  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:07:12  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:07:12  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:08:20  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:08:20  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:08:26  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:08:26  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 14:08:34  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 14:08:34  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 14:08:37  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 14:08:37  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:08:37  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:08:37  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:15:19  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:15:19  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:15:25  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:15:25  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 14:15:30  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 14:15:30  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 14:15:32  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 14:15:32  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:15:32  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:15:32  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:20:25  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:20:25  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:20:29  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:20:29  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 14:20:31  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 14:20:31  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 14:20:33  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 14:20:33  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:20:33  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:20:33  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:22:37  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:22:37  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:22:43  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:22:43  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 14:22:45  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 14:22:45  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 14:22:48  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 14:22:48  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:22:48  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:22:48  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 14:23:50  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 14:23:50  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 14:23:54  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 14:23:54  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 14:23:57  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 14:23:57  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 14:24:00  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 14:24:00  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 14:24:00  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 14:24:00  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 17:14:08  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 17:14:08  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 17:14:15  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 17:14:15  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 17:14:17  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 17:14:17  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 17:14:20  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 17:14:20  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 17:14:20  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 17:14:20  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 17:53:14  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 17:53:14  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 17:53:19  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 17:53:19  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 17:53:22  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 17:53:22  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 17:53:23  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 17:53:23  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 17:53:23  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 17:53:23  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 17:56:54  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 17:56:54  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 17:56:58  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 17:56:58  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 17:57:00  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 17:57:00  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 17:57:02  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 17:57:02  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 17:57:02  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 17:57:02  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
+2021-11-29 17:57:45  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-1 begin!
+2021-11-29 17:57:45  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 0 start
+2021-11-29 17:57:46  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 0 end
+2021-11-29 17:57:46  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 1 start
+2021-11-29 17:57:47  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 1 end
+2021-11-29 17:57:47  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-1 round 2 start
+2021-11-29 17:57:48  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-1 round 2 end
+2021-11-29 17:57:48  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-1 game over
+2021-11-29 17:57:48  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-1 result save done!
+2021-11-29 17:57:48  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-1 record save done!
+2021-11-29 20:16:01  INFO TestServiceRunnable:60 - 201870199vsRobotC-test-0 begin!
+2021-11-29 20:16:01  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 0 start
+2021-11-29 20:16:09  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 0 end
+2021-11-29 20:16:09  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 1 start
+2021-11-29 20:16:13  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 1 end
+2021-11-29 20:16:13  INFO TestServiceRunnable:70 - 201870199vsRobotC-test-0 round 2 start
+2021-11-29 20:16:16  INFO TestServiceRunnable:287 - 201870199vsRobotC-test-0 round 2 end
+2021-11-29 20:16:16  INFO TestServiceRunnable:327 - 201870199vsRobotC-test-0 game over
+2021-11-29 20:16:16  INFO TestServiceRunnable:334 - 201870199vsRobotC-test-0 result save done!
+2021-11-29 20:16:16  INFO TestServiceRunnable:339 - 201870199vsRobotC-test-0 record save done!
